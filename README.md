@@ -1,4 +1,4 @@
-# 🚀 Jom-mula-coding: Windows to Linux & Git Mastery
+# 🚀 Ground-Zero-Semiconductor
 
 ![Status](https://img.shields.io/badge/Status-Aktif-brightgreen)
 ![Level](https://img.shields.io/badge/Level-Pemula-blue)
